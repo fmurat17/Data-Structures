@@ -10,7 +10,7 @@ vector<int> g (10); // 10 zero-initialized elements
 for(auto i : my_vector) cout << i << " ";
 for(i = 0; i < my_vector.size(); i++) cout << my_vector[i] << " ";
 
- 
+
 ---push_back()---
 	
 	for(i = 0; i < 5; i++){
